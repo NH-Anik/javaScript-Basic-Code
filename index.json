@@ -1,0 +1,30 @@
+{
+    "student":[
+        {
+            "name":"anik",
+            "age":25,
+            "class":5,
+            "friends":[
+                
+                {"name":"rony",
+                "age":20},
+
+                {"name":"rony",
+                "age":20}
+            ]
+        },
+        {
+            "name":"ashik",
+            "age":35,
+            "class":5,
+            "friends":[
+
+                {"name":"rony",
+                "age":20},
+
+                {"name":"rony",
+                "age":20}
+            ]
+        }
+    ]
+}
